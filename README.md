@@ -1,4 +1,4 @@
-# HR_Analytics_Report
+# HR_Analytics_Report using Power BI
 
 🔗 Project Overview:- 
 Our comprehensive dataset includes employee information such as age, gender, attrition, business travel, department, field of education, monthly salary, job role, years at the company, and more.
